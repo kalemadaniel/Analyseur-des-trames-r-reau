@@ -44,9 +44,9 @@ Une fenêtre dédiée permet :
 Une section didactique explique :
 - Comment les applications réseau fonctionnent  
 - Comment les trames circulent  
-- Comment les administrateurs diagnostiquent un service (mail, FTP, …)  
-
-<img width="403" height="420" alt="Capture d&#39;écran 2025-12-05 180730" src="https://github.com/user-attachments/assets/e5148bd8-e012-4cc1-a2c8-84979288584e" />
+- Comment les administrateurs diagnostiquent un service (mail, FTP, …)
+  
+<img width="504" height="524" alt="Capture d&#39;écran 2025-12-05 180855" src="https://github.com/user-attachments/assets/ddd56db2-307d-42de-bda1-4590d92a95b2" />
 
 ---
 
